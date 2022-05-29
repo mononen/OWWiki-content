@@ -1,11 +1,12 @@
 ---
 date: '1'
-title: 'Mods'
+title: 'Modifications'
 cover: './img.png'
 internalRef: '/mods'
 skillList:
-  - skill1
-  - skill2
+  - mods
+  - DIY
 ---
 
-This project is inspired by the JWFFM modchip, unlocking battery expansion possibilities and removing BMS pairing on otherwise locked Onewheels such as Onewheel XR with FW version 4210+ and Onewheel Pint with FW 5059+.
+If you're looking to tweak, alter, change, modify or make your board better in any possible way, this might be the spot for you. Or if you've gone a step too far and need to fix your board and don't want to pay Future Motion for repair (or they won't do it), you might find the solution here.
+
